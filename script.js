@@ -5,7 +5,8 @@ document.addEventListener('DOMContentLoaded', function() {
     const galleryImages = [
         {
             src: 'img_1.jpg',
-            caption: 'Every moment with you feels like a beautiful dream come true. Your love is my greatest treasure.'
+            caption: 'منسوب تیری ذات سے رعنائیاں تمام
+ تیرے بنا حیات میں کچھ دلکشی نہیں'
         },
         {
             src: 'img_2.jpg',
