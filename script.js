@@ -4,43 +4,43 @@ document.addEventListener('DOMContentLoaded', function() {
     // Image gallery data with romantic captions
     const galleryImages = [
         {
-            src: 'img_1.jpeg',
+            src: 'img_1.jpg',
             caption: 'Every moment with you feels like a beautiful dream come true. Your love is my greatest treasure.'
         },
         {
-            src: 'img_2.jpeg',
+            src: 'img_2.jpg',
             caption: 'In your arms, I have found my home. Together, we create the most beautiful love story.'
         },
         {
-            src: 'img_3.jpeg',
+            src: 'img_3.jpg',
             caption: 'Like these flowers, my love for you blooms more beautiful with each passing day.'
         },
         {
-            src: 'img_4.jpeg',
+            src: 'img_4.jpg',
             caption: 'You are my sunshine on cloudy days, my anchor in stormy seas, my everything.'
         },
         {
-            src: 'img_5.jpeg',
+            src: 'img_5.jpg',
             caption: 'With you, every day is Valentine\'s Day, every moment is a celebration of love.'
         },
         {
-            src: 'img_6.jpeg',
+            src: 'img_6.jpg',
             caption: 'Your smile lights up my world brighter than a thousand stars in the night sky.'
         },
         {
-            src: 'img_7.jpeg',
+            src: 'img_7.jpg',
             caption: 'In the garden of my heart, you are the most beautiful flower that ever bloomed.'
         },
         {
-            src: 'img_8.jpeg',
+            src: 'img_8.jpg',
             caption: 'Forever isn\'t long enough to love you the way you deserve to be loved.'
         },
         {
-            src: 'img_9.jpeg',
+            src: 'img_9.jpg',
             caption: 'You are my today, my tomorrow, my always. Happy Birthday, my beautiful love.'
         },
         {
-            src: 'img_10.jpeg',
+            src: 'img_10.jpg',
             caption: 'Every love song makes sense now, every poem speaks our truth. You complete me.'
         }
     ];
